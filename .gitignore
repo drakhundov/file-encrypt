@@ -1,0 +1,9 @@
+.vscode/
+build/
+bin/
+
+.DS_Store
+Thumbs.db
+
+*.o
+*.out
